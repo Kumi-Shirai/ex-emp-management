@@ -4,3 +4,6 @@ citrus
 ?daffy
 ?e
 ?fish
+!donuts
+!ekrea
+!fruit
