@@ -1,3 +1,6 @@
 apple
 banana
 citrus
+?daffy
+?e
+?fish
